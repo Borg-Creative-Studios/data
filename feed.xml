@@ -3,7 +3,7 @@
     <title>BCS Data</title>
     <link href="https://data.borgcreative.com/feed.xml" rel="self" />
     <link href="https://data.borgcreative.com" />
-    <updated>2021-07-01T16:22:10-07:00</updated>
+    <updated>2021-07-01T16:36:20-07:00</updated>
     <author>
         <name>Borg Creative Studios Dev Team</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://data.borgcreative.com/same-url-new-purpose.html"/>
         <id>https://data.borgcreative.com/same-url-new-purpose.html</id>
 
-        <updated>2021-07-01T16:22:10-07:00</updated>
+        <updated>2021-07-01T16:36:20-07:00</updated>
             <summary>
                 <![CDATA[
                     As we refine our internet presence we are changing some of our sites and services. This website use to be&hellip;
@@ -27,6 +27,7 @@
             <![CDATA[
                 <p>As we refine our internet presence we are changing some of our sites and services.  This website use to be home to our data research and open-data polls. Now, it is an open-data archive. This is where open-source data of ours and our partners will be found.</p>
 <p>Want to read more about our development projects? Visit <a href="https://dev.borgcreative.com">our development blog</a>!</p>
+<p>You can learn more about open-data <a href="https://en.wikipedia.org/wiki/Open_data" target="_BLANK">here</a>!</p>
 
             ]]>
         </content>
