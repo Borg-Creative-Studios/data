@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>BCS Data</title>
-    <link href="https://data.bogrcreative.com/feed.xml" rel="self" />
-    <link href="https://data.bogrcreative.com" />
+    <link href="https://data.borgcreative.com/feed.xml" rel="self" />
+    <link href="https://data.borgcreative.com" />
     <updated>2021-07-01T16:22:10-07:00</updated>
     <author>
         <name>Borg Creative Studios Dev Team</name>
     </author>
-    <id>https://data.bogrcreative.com</id>
+    <id>https://data.borgcreative.com</id>
 
     <entry>
         <title>Same URL, New Purpose.</title>
         <author>
             <name>Borg Creative Studios Dev Team</name>
         </author>
-        <link href="https://data.bogrcreative.com/same-url-new-purpose.html"/>
-        <id>https://data.bogrcreative.com/same-url-new-purpose.html</id>
+        <link href="https://data.borgcreative.com/same-url-new-purpose.html"/>
+        <id>https://data.borgcreative.com/same-url-new-purpose.html</id>
 
         <updated>2021-07-01T16:22:10-07:00</updated>
             <summary>

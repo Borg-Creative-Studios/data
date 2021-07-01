@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "BCS Data",
     "description": "",
-    "home_page_url": "https://data.bogrcreative.com",
-    "feed_url": "https://data.bogrcreative.com/feed.json",
+    "home_page_url": "https://data.borgcreative.com",
+    "feed_url": "https://data.borgcreative.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Borg Creative Studios Dev Team"
     },
     "items": [
         {
-            "id": "https://data.bogrcreative.com/same-url-new-purpose.html",
-            "url": "https://data.bogrcreative.com/same-url-new-purpose.html",
+            "id": "https://data.borgcreative.com/same-url-new-purpose.html",
+            "url": "https://data.borgcreative.com/same-url-new-purpose.html",
             "title": "Same URL, New Purpose.",
             "summary": "As we refine our internet presence we are changing some of our sites and services. This website use to be&hellip;",
             "content_html": "<p>As we refine our internet presence we are changing some of our sites and services.  This website use to be home to our data research and open-data polls. Now, it is an open-data archive. This is where open-source data of ours and our partners will be found.</p>\n<p>Want to read more about our development projects? Visit <a href=\"https://dev.borgcreative.com\">our development blog</a>!</p>\n",
