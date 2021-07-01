@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>BCS Data</title>
+    <link href="https://data.bogrcreative.com/feed.xml" rel="self" />
+    <link href="https://data.bogrcreative.com" />
+    <updated>2021-07-01T16:22:10-07:00</updated>
+    <author>
+        <name>Borg Creative Studios Dev Team</name>
+    </author>
+    <id>https://data.bogrcreative.com</id>
+
+    <entry>
+        <title>Same URL, New Purpose.</title>
+        <author>
+            <name>Borg Creative Studios Dev Team</name>
+        </author>
+        <link href="https://data.bogrcreative.com/same-url-new-purpose.html"/>
+        <id>https://data.bogrcreative.com/same-url-new-purpose.html</id>
+
+        <updated>2021-07-01T16:22:10-07:00</updated>
+            <summary>
+                <![CDATA[
+                    As we refine our internet presence we are changing some of our sites and services. This website use to be&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>As we refine our internet presence we are changing some of our sites and services.  This website use to be home to our data research and open-data polls. Now, it is an open-data archive. This is where open-source data of ours and our partners will be found.</p>
+<p>Want to read more about our development projects? Visit <a href="https://dev.borgcreative.com">our development blog</a>!</p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>
